@@ -19,7 +19,7 @@ The box is made from 5.5mm Tri-ply from the local big box home improvement store
 * 2x Scythe SY1225SL12SH 120mm "Slipstream" Case Fan (#N82E16835185060)
 * 1x Swiftech MCR220-QP Liquid Cooler Radiator (#N82E16835108086)
 * 1x Regular GE wall switch
-* 1x Radiator assembly fashioned from PVC pipe and brass fittings.
+* 1x Reservoir assembly fashioned from PVC pipe and brass fittings.
 
 The main power switch closes a circuit between lines 14 and 15 on the ATX power supply connector. This turns the supply on. The coolant loop travels as follows: reservoir-->pump->laser tube->radiator->reservoir. It is important to prime the pump so that it does not self destruct. A drain valve on the pump out line works well for this, if the valve is located below the reservoir.
 
