@@ -1,6 +1,6 @@
 This project is for the CAD designs of a custom water cooling box with radiator, pump, and fans. It is intended to cool a 40W hobby laser cutter.
 
-This was created to replace a bucket for cooling. Open water can grow algae, and when the system heats up, only passive radiation can cool the bucket water. 
+This was created to replace a bucket used for cooling. Open water can grow algae, and when the bucket system heated up, only passive radiation could cool it.
 
 This design improves cooling, and is designed using laser-cut plywood, fittings from the hardware store, and commodity PC water cooling parts. It sports variable fan speed, an on/off switch, and a water reservoir. The setup is powered by a computer power supply.
 
