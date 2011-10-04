@@ -12,14 +12,14 @@ The tolerances are not as tight as they could be, but it works fine.  The panels
 
 The box is made from 5.5mm Tri-ply from the local big box home improvement store. The enclosure was designed in DraftSight, and cut using my FullSpectrum 40W hobby laser. The enclosure is designed to accommodate the following parts (Newegg part numbers):
 
-2x Enzotech HF-G1/4-38 Water Cooling Accessory (#N82E16835708034)
-1x NZXT Sentry-2 5.25" Touch Screen fan controller (#N82E16811992005)
-1x Swiftech MCP355 12 VDC Pump (#N82E16835108097)
-1x Rosewill SL-300TFX 300W TFX12V Power Supply - OEM (#N82E16817182207)
-2x Scythe SY1225SL12SH 120mm "Slipstream" Case Fan (#N82E16835185060)
-1x Swiftech MCR220-QP Liquid Cooler Radiator (#N82E16835108086)
-1x Regular GE wall switch
-1x Radiator assembly fashioned from PVC pipe and brass fittings.
+* 2x Enzotech HF-G1/4-38 Water Cooling Accessory (#N82E16835708034)
+* 1x NZXT Sentry-2 5.25" Touch Screen fan controller (#N82E16811992005)
+* 1x Swiftech MCP355 12 VDC Pump (#N82E16835108097)
+* 1x Rosewill SL-300TFX 300W TFX12V Power Supply - OEM (#N82E16817182207)
+* 2x Scythe SY1225SL12SH 120mm "Slipstream" Case Fan (#N82E16835185060)
+* 1x Swiftech MCR220-QP Liquid Cooler Radiator (#N82E16835108086)
+* 1x Regular GE wall switch
+* 1x Radiator assembly fashioned from PVC pipe and brass fittings.
 
 The main power switch closes a circuit between lines 14 and 15 on the ATX power supply connector. This turns the supply on. The coolant loop travels as follows: reservoir-->pump->laser tube->radiator->reservoir. It is important to prime the pump so that it does not self destruct. A drain valve on the pump out line works well for this, if the valve is located below the reservoir.
 
