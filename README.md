@@ -2,9 +2,9 @@
 
 This project includes CAD designs for a custom water cooling box with radiator, pump, and fans. It is intended to cool a 40W hobby laser cutter.
 
-This was created to replace a bucket used for cooling. Open water grew algae, and when the bucket system heated up, only passive radiation could cool it.
+This was created to replace a bucket used for cooling. The open water grew algae, and when the bucket system heated up, only passive radiation could cool it.
 
-This design improves cooling, and is designed using laser-cut plywood, fittings from the hardware store, and commodity PC water cooling parts. It sports variable fan speed, an on/off switch, and a water reservoir. The setup is powered by a computer power supply.
+This design improves cooling, and is constructed using laser-cut plywood, fittings from the hardware store, and commodity PC water cooling parts. It sports variable fan speed, an on/off switch, and a water reservoir. The setup is powered by a computer power supply.
 
 
 The tolerances are not as tight as they could be, but it works fine.  The panels are held together with M3x16 socket cap screws. The screws are used similar to how they are in the MakerBot design. The side panels are held by friction, but tape can be added to secure them. A future revision might include screws along those edges as well. The tubing is 3/8 ID black vinyl. It's pretty tight inside the box, so correct tubing length is important.
